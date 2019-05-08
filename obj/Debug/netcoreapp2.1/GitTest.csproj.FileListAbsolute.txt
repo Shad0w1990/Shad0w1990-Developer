@@ -1,0 +1,14 @@
+D:\GitProject\Shad0w1990-Developer\bin\Debug\netcoreapp2.1\GitTest.deps.json
+D:\GitProject\Shad0w1990-Developer\bin\Debug\netcoreapp2.1\GitTest.runtimeconfig.json
+D:\GitProject\Shad0w1990-Developer\bin\Debug\netcoreapp2.1\GitTest.runtimeconfig.dev.json
+D:\GitProject\Shad0w1990-Developer\bin\Debug\netcoreapp2.1\GitTest.dll
+D:\GitProject\Shad0w1990-Developer\bin\Debug\netcoreapp2.1\GitTest.pdb
+D:\GitProject\Shad0w1990-Developer\obj\Debug\netcoreapp2.1\GitTest.csprojAssemblyReference.cache
+D:\GitProject\Shad0w1990-Developer\obj\Debug\netcoreapp2.1\GitTest.csproj.CoreCompileInputs.cache
+D:\GitProject\Shad0w1990-Developer\obj\Debug\netcoreapp2.1\GitTest.RazorAssemblyInfo.cache
+D:\GitProject\Shad0w1990-Developer\obj\Debug\netcoreapp2.1\GitTest.RazorAssemblyInfo.cs
+D:\GitProject\Shad0w1990-Developer\obj\Debug\netcoreapp2.1\GitTest.AssemblyInfoInputs.cache
+D:\GitProject\Shad0w1990-Developer\obj\Debug\netcoreapp2.1\GitTest.AssemblyInfo.cs
+D:\GitProject\Shad0w1990-Developer\obj\Debug\netcoreapp2.1\GitTest.RazorTargetAssemblyInfo.cache
+D:\GitProject\Shad0w1990-Developer\obj\Debug\netcoreapp2.1\GitTest.dll
+D:\GitProject\Shad0w1990-Developer\obj\Debug\netcoreapp2.1\GitTest.pdb
