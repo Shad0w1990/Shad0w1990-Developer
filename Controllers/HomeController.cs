@@ -1,11 +1,15 @@
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Linq;
 
-namespace Shad0w1990-Developer{
+namespace Developer{
 
-public class HomeController:BaseController{
+public class HomeController:Controller{
 	public IActionResult Create(){
 		return Ok();
+	}
+	public IActionResult Index(){
+		return Content("hello");
 	}
 }
 }
