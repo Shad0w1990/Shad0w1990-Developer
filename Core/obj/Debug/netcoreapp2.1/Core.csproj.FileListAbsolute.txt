@@ -16,3 +16,5 @@ D:\GitProject\Shad0w1990-Developer\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInf
 D:\GitProject\Shad0w1990-Developer\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfo.cs
 D:\GitProject\Shad0w1990-Developer\Core\obj\Debug\netcoreapp2.1\Core.dll
 D:\GitProject\Shad0w1990-Developer\Core\obj\Debug\netcoreapp2.1\Core.pdb
+D:\GitProject\Shad0w1990-Developer\Core\bin\Debug\netcoreapp2.1\Core.runtimeconfig.json
+D:\GitProject\Shad0w1990-Developer\Core\bin\Debug\netcoreapp2.1\Core.runtimeconfig.dev.json
