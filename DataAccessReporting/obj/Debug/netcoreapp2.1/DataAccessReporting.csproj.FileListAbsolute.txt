@@ -6,3 +6,12 @@ D:\Projects\AsyandehSystem\DataAccessReporting\obj\Debug\netcoreapp2.1\DataAcces
 D:\Projects\AsyandehSystem\DataAccessReporting\obj\Debug\netcoreapp2.1\DataAccessReporting.AssemblyInfo.cs
 D:\Projects\AsyandehSystem\DataAccessReporting\obj\Debug\netcoreapp2.1\DataAccessReporting.dll
 D:\Projects\AsyandehSystem\DataAccessReporting\obj\Debug\netcoreapp2.1\DataAccessReporting.pdb
+D:\GitProject\Shad0w1990-Developer\DataAccessReporting\bin\Debug\netcoreapp2.1\DataAccessReporting.deps.json
+D:\GitProject\Shad0w1990-Developer\DataAccessReporting\bin\Debug\netcoreapp2.1\DataAccessReporting.dll
+D:\GitProject\Shad0w1990-Developer\DataAccessReporting\bin\Debug\netcoreapp2.1\DataAccessReporting.pdb
+D:\GitProject\Shad0w1990-Developer\DataAccessReporting\obj\Debug\netcoreapp2.1\DataAccessReporting.csprojAssemblyReference.cache
+D:\GitProject\Shad0w1990-Developer\DataAccessReporting\obj\Debug\netcoreapp2.1\DataAccessReporting.csproj.CoreCompileInputs.cache
+D:\GitProject\Shad0w1990-Developer\DataAccessReporting\obj\Debug\netcoreapp2.1\DataAccessReporting.AssemblyInfoInputs.cache
+D:\GitProject\Shad0w1990-Developer\DataAccessReporting\obj\Debug\netcoreapp2.1\DataAccessReporting.AssemblyInfo.cs
+D:\GitProject\Shad0w1990-Developer\DataAccessReporting\obj\Debug\netcoreapp2.1\DataAccessReporting.dll
+D:\GitProject\Shad0w1990-Developer\DataAccessReporting\obj\Debug\netcoreapp2.1\DataAccessReporting.pdb

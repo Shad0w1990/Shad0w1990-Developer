@@ -6,3 +6,15 @@ D:\Projects\AsyandehSystem\AppServiceReporting\obj\Debug\netcoreapp2.1\AppServic
 D:\Projects\AsyandehSystem\AppServiceReporting\obj\Debug\netcoreapp2.1\AppServiceReporting.AssemblyInfo.cs
 D:\Projects\AsyandehSystem\AppServiceReporting\obj\Debug\netcoreapp2.1\AppServiceReporting.dll
 D:\Projects\AsyandehSystem\AppServiceReporting\obj\Debug\netcoreapp2.1\AppServiceReporting.pdb
+D:\GitProject\Shad0w1990-Developer\AppServiceReporting\bin\Debug\netcoreapp2.1\AppServiceReporting.deps.json
+D:\GitProject\Shad0w1990-Developer\AppServiceReporting\bin\Debug\netcoreapp2.1\AppServiceReporting.dll
+D:\GitProject\Shad0w1990-Developer\AppServiceReporting\bin\Debug\netcoreapp2.1\AppServiceReporting.pdb
+D:\GitProject\Shad0w1990-Developer\AppServiceReporting\bin\Debug\netcoreapp2.1\Core.dll
+D:\GitProject\Shad0w1990-Developer\AppServiceReporting\bin\Debug\netcoreapp2.1\Core.pdb
+D:\GitProject\Shad0w1990-Developer\AppServiceReporting\obj\Debug\netcoreapp2.1\AppServiceReporting.csprojAssemblyReference.cache
+D:\GitProject\Shad0w1990-Developer\AppServiceReporting\obj\Debug\netcoreapp2.1\AppServiceReporting.csproj.CoreCompileInputs.cache
+D:\GitProject\Shad0w1990-Developer\AppServiceReporting\obj\Debug\netcoreapp2.1\AppServiceReporting.AssemblyInfoInputs.cache
+D:\GitProject\Shad0w1990-Developer\AppServiceReporting\obj\Debug\netcoreapp2.1\AppServiceReporting.AssemblyInfo.cs
+D:\GitProject\Shad0w1990-Developer\AppServiceReporting\obj\Debug\netcoreapp2.1\AppServiceReporting.csproj.CopyComplete
+D:\GitProject\Shad0w1990-Developer\AppServiceReporting\obj\Debug\netcoreapp2.1\AppServiceReporting.dll
+D:\GitProject\Shad0w1990-Developer\AppServiceReporting\obj\Debug\netcoreapp2.1\AppServiceReporting.pdb

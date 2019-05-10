@@ -7,3 +7,12 @@ D:\Projects\AsyandehSystem\Core\bin\Debug\netcoreapp2.1\Core.pdb
 D:\Projects\AsyandehSystem\Core\obj\Debug\netcoreapp2.1\Core.dll
 D:\Projects\AsyandehSystem\Core\obj\Debug\netcoreapp2.1\Core.pdb
 D:\Projects\AsyandehSystem\Core\obj\Debug\netcoreapp2.1\Core.csprojAssemblyReference.cache
+D:\GitProject\Shad0w1990-Developer\Core\bin\Debug\netcoreapp2.1\Core.deps.json
+D:\GitProject\Shad0w1990-Developer\Core\bin\Debug\netcoreapp2.1\Core.dll
+D:\GitProject\Shad0w1990-Developer\Core\bin\Debug\netcoreapp2.1\Core.pdb
+D:\GitProject\Shad0w1990-Developer\Core\obj\Debug\netcoreapp2.1\Core.csprojAssemblyReference.cache
+D:\GitProject\Shad0w1990-Developer\Core\obj\Debug\netcoreapp2.1\Core.csproj.CoreCompileInputs.cache
+D:\GitProject\Shad0w1990-Developer\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfoInputs.cache
+D:\GitProject\Shad0w1990-Developer\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfo.cs
+D:\GitProject\Shad0w1990-Developer\Core\obj\Debug\netcoreapp2.1\Core.dll
+D:\GitProject\Shad0w1990-Developer\Core\obj\Debug\netcoreapp2.1\Core.pdb

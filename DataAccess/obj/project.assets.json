@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\AsyandehSystem\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "D:\\GitProject\\Shad0w1990-Developer\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "D:\\Projects\\AsyandehSystem\\DataAccess\\DataAccess.csproj",
+      "projectPath": "D:\\GitProject\\Shad0w1990-Developer\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\SHAD0W\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\AsyandehSystem\\DataAccess\\obj\\",
+      "outputPath": "D:\\GitProject\\Shad0w1990-Developer\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

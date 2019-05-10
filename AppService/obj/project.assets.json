@@ -736,11 +736,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\AsyandehSystem\\AppService\\AppService.csproj",
+      "projectUniqueName": "D:\\GitProject\\Shad0w1990-Developer\\AppService\\AppService.csproj",
       "projectName": "AppService",
-      "projectPath": "D:\\Projects\\AsyandehSystem\\AppService\\AppService.csproj",
+      "projectPath": "D:\\GitProject\\Shad0w1990-Developer\\AppService\\AppService.csproj",
       "packagesPath": "C:\\Users\\SHAD0W\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\AsyandehSystem\\AppService\\obj\\",
+      "outputPath": "D:\\GitProject\\Shad0w1990-Developer\\AppService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -759,8 +759,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Projects\\AsyandehSystem\\Core\\Core.csproj": {
-              "projectPath": "D:\\Projects\\AsyandehSystem\\Core\\Core.csproj"
+            "D:\\GitProject\\Shad0w1990-Developer\\Core\\Core.csproj": {
+              "projectPath": "D:\\GitProject\\Shad0w1990-Developer\\Core\\Core.csproj"
             }
           }
         }

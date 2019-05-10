@@ -6,3 +6,12 @@ D:\Projects\AsyandehSystem\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.Assembl
 D:\Projects\AsyandehSystem\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
 D:\Projects\AsyandehSystem\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
 D:\Projects\AsyandehSystem\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb
+D:\GitProject\Shad0w1990-Developer\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+D:\GitProject\Shad0w1990-Developer\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+D:\GitProject\Shad0w1990-Developer\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.pdb
+D:\GitProject\Shad0w1990-Developer\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+D:\GitProject\Shad0w1990-Developer\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\GitProject\Shad0w1990-Developer\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+D:\GitProject\Shad0w1990-Developer\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+D:\GitProject\Shad0w1990-Developer\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
+D:\GitProject\Shad0w1990-Developer\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb

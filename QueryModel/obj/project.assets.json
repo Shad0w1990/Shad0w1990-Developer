@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\AsyandehSystem\\QueryModel\\QueryModel.csproj",
+      "projectUniqueName": "D:\\GitProject\\Shad0w1990-Developer\\QueryModel\\QueryModel.csproj",
       "projectName": "QueryModel",
-      "projectPath": "D:\\Projects\\AsyandehSystem\\QueryModel\\QueryModel.csproj",
+      "projectPath": "D:\\GitProject\\Shad0w1990-Developer\\QueryModel\\QueryModel.csproj",
       "packagesPath": "C:\\Users\\SHAD0W\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\AsyandehSystem\\QueryModel\\obj\\",
+      "outputPath": "D:\\GitProject\\Shad0w1990-Developer\\QueryModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

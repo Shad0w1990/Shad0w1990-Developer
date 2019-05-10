@@ -6,3 +6,12 @@ D:\Projects\AsyandehSystem\QueryModel\obj\Debug\netcoreapp2.1\QueryModel.Assembl
 D:\Projects\AsyandehSystem\QueryModel\obj\Debug\netcoreapp2.1\QueryModel.AssemblyInfo.cs
 D:\Projects\AsyandehSystem\QueryModel\obj\Debug\netcoreapp2.1\QueryModel.dll
 D:\Projects\AsyandehSystem\QueryModel\obj\Debug\netcoreapp2.1\QueryModel.pdb
+D:\GitProject\Shad0w1990-Developer\QueryModel\bin\Debug\netcoreapp2.1\QueryModel.deps.json
+D:\GitProject\Shad0w1990-Developer\QueryModel\bin\Debug\netcoreapp2.1\QueryModel.dll
+D:\GitProject\Shad0w1990-Developer\QueryModel\bin\Debug\netcoreapp2.1\QueryModel.pdb
+D:\GitProject\Shad0w1990-Developer\QueryModel\obj\Debug\netcoreapp2.1\QueryModel.csprojAssemblyReference.cache
+D:\GitProject\Shad0w1990-Developer\QueryModel\obj\Debug\netcoreapp2.1\QueryModel.csproj.CoreCompileInputs.cache
+D:\GitProject\Shad0w1990-Developer\QueryModel\obj\Debug\netcoreapp2.1\QueryModel.AssemblyInfoInputs.cache
+D:\GitProject\Shad0w1990-Developer\QueryModel\obj\Debug\netcoreapp2.1\QueryModel.AssemblyInfo.cs
+D:\GitProject\Shad0w1990-Developer\QueryModel\obj\Debug\netcoreapp2.1\QueryModel.dll
+D:\GitProject\Shad0w1990-Developer\QueryModel\obj\Debug\netcoreapp2.1\QueryModel.pdb

@@ -10,3 +10,15 @@ D:\Projects\AsyandehSystem\AppService\obj\Debug\netcoreapp2.1\AppService.Assembl
 D:\Projects\AsyandehSystem\AppService\obj\Debug\netcoreapp2.1\AppService.csproj.CopyComplete
 D:\Projects\AsyandehSystem\AppService\obj\Debug\netcoreapp2.1\AppService.dll
 D:\Projects\AsyandehSystem\AppService\obj\Debug\netcoreapp2.1\AppService.pdb
+D:\GitProject\Shad0w1990-Developer\AppService\bin\Debug\netcoreapp2.1\AppService.deps.json
+D:\GitProject\Shad0w1990-Developer\AppService\bin\Debug\netcoreapp2.1\AppService.dll
+D:\GitProject\Shad0w1990-Developer\AppService\bin\Debug\netcoreapp2.1\AppService.pdb
+D:\GitProject\Shad0w1990-Developer\AppService\bin\Debug\netcoreapp2.1\Core.dll
+D:\GitProject\Shad0w1990-Developer\AppService\bin\Debug\netcoreapp2.1\Core.pdb
+D:\GitProject\Shad0w1990-Developer\AppService\obj\Debug\netcoreapp2.1\AppService.csprojAssemblyReference.cache
+D:\GitProject\Shad0w1990-Developer\AppService\obj\Debug\netcoreapp2.1\AppService.csproj.CoreCompileInputs.cache
+D:\GitProject\Shad0w1990-Developer\AppService\obj\Debug\netcoreapp2.1\AppService.AssemblyInfoInputs.cache
+D:\GitProject\Shad0w1990-Developer\AppService\obj\Debug\netcoreapp2.1\AppService.AssemblyInfo.cs
+D:\GitProject\Shad0w1990-Developer\AppService\obj\Debug\netcoreapp2.1\AppService.csproj.CopyComplete
+D:\GitProject\Shad0w1990-Developer\AppService\obj\Debug\netcoreapp2.1\AppService.dll
+D:\GitProject\Shad0w1990-Developer\AppService\obj\Debug\netcoreapp2.1\AppService.pdb

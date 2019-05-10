@@ -718,11 +718,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\AsyandehSystem\\Core\\Core.csproj",
+      "projectUniqueName": "D:\\GitProject\\Shad0w1990-Developer\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "D:\\Projects\\AsyandehSystem\\Core\\Core.csproj",
+      "projectPath": "D:\\GitProject\\Shad0w1990-Developer\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\SHAD0W\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\AsyandehSystem\\Core\\obj\\",
+      "outputPath": "D:\\GitProject\\Shad0w1990-Developer\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
