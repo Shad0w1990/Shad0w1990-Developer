@@ -1,0 +1,12 @@
+D:\Projects\AsyandehSystem\AppService\bin\Debug\netcoreapp2.1\AppService.deps.json
+D:\Projects\AsyandehSystem\AppService\bin\Debug\netcoreapp2.1\AppService.dll
+D:\Projects\AsyandehSystem\AppService\bin\Debug\netcoreapp2.1\AppService.pdb
+D:\Projects\AsyandehSystem\AppService\bin\Debug\netcoreapp2.1\Core.dll
+D:\Projects\AsyandehSystem\AppService\bin\Debug\netcoreapp2.1\Core.pdb
+D:\Projects\AsyandehSystem\AppService\obj\Debug\netcoreapp2.1\AppService.csprojAssemblyReference.cache
+D:\Projects\AsyandehSystem\AppService\obj\Debug\netcoreapp2.1\AppService.csproj.CoreCompileInputs.cache
+D:\Projects\AsyandehSystem\AppService\obj\Debug\netcoreapp2.1\AppService.AssemblyInfoInputs.cache
+D:\Projects\AsyandehSystem\AppService\obj\Debug\netcoreapp2.1\AppService.AssemblyInfo.cs
+D:\Projects\AsyandehSystem\AppService\obj\Debug\netcoreapp2.1\AppService.csproj.CopyComplete
+D:\Projects\AsyandehSystem\AppService\obj\Debug\netcoreapp2.1\AppService.dll
+D:\Projects\AsyandehSystem\AppService\obj\Debug\netcoreapp2.1\AppService.pdb

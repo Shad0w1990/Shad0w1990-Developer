@@ -1,0 +1,8 @@
+D:\Projects\AsyandehSystem\DataAccessReporting\bin\Debug\netcoreapp2.1\DataAccessReporting.deps.json
+D:\Projects\AsyandehSystem\DataAccessReporting\bin\Debug\netcoreapp2.1\DataAccessReporting.dll
+D:\Projects\AsyandehSystem\DataAccessReporting\bin\Debug\netcoreapp2.1\DataAccessReporting.pdb
+D:\Projects\AsyandehSystem\DataAccessReporting\obj\Debug\netcoreapp2.1\DataAccessReporting.csproj.CoreCompileInputs.cache
+D:\Projects\AsyandehSystem\DataAccessReporting\obj\Debug\netcoreapp2.1\DataAccessReporting.AssemblyInfoInputs.cache
+D:\Projects\AsyandehSystem\DataAccessReporting\obj\Debug\netcoreapp2.1\DataAccessReporting.AssemblyInfo.cs
+D:\Projects\AsyandehSystem\DataAccessReporting\obj\Debug\netcoreapp2.1\DataAccessReporting.dll
+D:\Projects\AsyandehSystem\DataAccessReporting\obj\Debug\netcoreapp2.1\DataAccessReporting.pdb

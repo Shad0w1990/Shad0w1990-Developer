@@ -1,0 +1,8 @@
+D:\Projects\AsyandehSystem\QueryModel\bin\Debug\netcoreapp2.1\QueryModel.deps.json
+D:\Projects\AsyandehSystem\QueryModel\bin\Debug\netcoreapp2.1\QueryModel.dll
+D:\Projects\AsyandehSystem\QueryModel\bin\Debug\netcoreapp2.1\QueryModel.pdb
+D:\Projects\AsyandehSystem\QueryModel\obj\Debug\netcoreapp2.1\QueryModel.csproj.CoreCompileInputs.cache
+D:\Projects\AsyandehSystem\QueryModel\obj\Debug\netcoreapp2.1\QueryModel.AssemblyInfoInputs.cache
+D:\Projects\AsyandehSystem\QueryModel\obj\Debug\netcoreapp2.1\QueryModel.AssemblyInfo.cs
+D:\Projects\AsyandehSystem\QueryModel\obj\Debug\netcoreapp2.1\QueryModel.dll
+D:\Projects\AsyandehSystem\QueryModel\obj\Debug\netcoreapp2.1\QueryModel.pdb

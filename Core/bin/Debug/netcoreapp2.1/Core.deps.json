@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "6a6ff3ef78247cefeef9c3c5ffe1be521bb3226e"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Core/1.0.0": {
+        "dependencies": {
+          "CSharpFunctionalExtensions": "1.18.1"
+        },
+        "runtime": {
+          "Core.dll": {}
+        }
+      },
+      "CSharpFunctionalExtensions/1.18.1": {
+        "runtime": {
+          "lib/netstandard2.0/CSharpFunctionalExtensions.dll": {
+            "assemblyVersion": "1.18.1.0",
+            "fileVersion": "1.18.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSharpFunctionalExtensions/1.18.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dV1EmnwTEeX/3sMCYga98b8m8u1CvLroGFA9NcYnh1A9H1RyeGhOwR8gQuJ4unh3/uAaF6Z3tRw/1T/YyCN40A==",
+      "path": "csharpfunctionalextensions/1.18.1",
+      "hashPath": "csharpfunctionalextensions.1.18.1.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+D:\Projects\AsyandehSystem\AppServiceReporting\bin\Debug\netcoreapp2.1\AppServiceReporting.deps.json
+D:\Projects\AsyandehSystem\AppServiceReporting\bin\Debug\netcoreapp2.1\AppServiceReporting.dll
+D:\Projects\AsyandehSystem\AppServiceReporting\bin\Debug\netcoreapp2.1\AppServiceReporting.pdb
+D:\Projects\AsyandehSystem\AppServiceReporting\obj\Debug\netcoreapp2.1\AppServiceReporting.csproj.CoreCompileInputs.cache
+D:\Projects\AsyandehSystem\AppServiceReporting\obj\Debug\netcoreapp2.1\AppServiceReporting.AssemblyInfoInputs.cache
+D:\Projects\AsyandehSystem\AppServiceReporting\obj\Debug\netcoreapp2.1\AppServiceReporting.AssemblyInfo.cs
+D:\Projects\AsyandehSystem\AppServiceReporting\obj\Debug\netcoreapp2.1\AppServiceReporting.dll
+D:\Projects\AsyandehSystem\AppServiceReporting\obj\Debug\netcoreapp2.1\AppServiceReporting.pdb

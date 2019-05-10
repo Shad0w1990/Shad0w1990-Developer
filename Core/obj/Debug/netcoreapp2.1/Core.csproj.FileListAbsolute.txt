@@ -1,0 +1,9 @@
+D:\Projects\AsyandehSystem\Core\bin\Debug\netcoreapp2.1\Core.deps.json
+D:\Projects\AsyandehSystem\Core\bin\Debug\netcoreapp2.1\Core.dll
+D:\Projects\AsyandehSystem\Core\obj\Debug\netcoreapp2.1\Core.csproj.CoreCompileInputs.cache
+D:\Projects\AsyandehSystem\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfoInputs.cache
+D:\Projects\AsyandehSystem\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfo.cs
+D:\Projects\AsyandehSystem\Core\bin\Debug\netcoreapp2.1\Core.pdb
+D:\Projects\AsyandehSystem\Core\obj\Debug\netcoreapp2.1\Core.dll
+D:\Projects\AsyandehSystem\Core\obj\Debug\netcoreapp2.1\Core.pdb
+D:\Projects\AsyandehSystem\Core\obj\Debug\netcoreapp2.1\Core.csprojAssemblyReference.cache
